@@ -25,7 +25,7 @@ This Django project is a user management system featuring custom user registrati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/shivam-1208/user-authentication.git
 cd your-repo-name
 ```
 
